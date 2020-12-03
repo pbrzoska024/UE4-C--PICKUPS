@@ -29,7 +29,8 @@ All done with C++/BehaviorTree/Blackboard
 With Values C++ Exposed to BP it's easy to setup.
 All logic is done in C++.
 
-![AiDistance](https://user-images.githubusercontent.com/53401206/101002085-33601700-3560-11eb-8609-8a7fba3fb769.png)
+![Pickup](https://user-images.githubusercontent.com/53401206/101007139-a3bb6800-3561-11eb-88b4-45d3dbe066d0.png)
+
 
 ## Video:
 
