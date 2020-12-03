@@ -4,7 +4,7 @@ CODE IS USED IN ON GOING PROJECT
 CODE CAN BE SHOWN ONLY FOR RECRUTERS/EMPLOYER*
 
 # UE4-C--PICKUPS
-Modular Pickup class made in C++ for Unreal Engine 4 
+Procedural Pickup class made in C++ for Unreal Engine 4 
 
 ![HighresScreenshot00020](https://user-images.githubusercontent.com/53401206/101003922-b5504000-3560-11eb-82b7-2703f3f52e44.png)
 
@@ -18,7 +18,7 @@ Main goal was to code a parent pickup class that have:
 - a particle effect to play
 - an audio to play
 
-All done with C++/BehaviorTree/Blackboard
+All done with C++
 
 ## C++ classes:
 
