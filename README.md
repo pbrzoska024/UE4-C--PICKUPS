@@ -32,10 +32,6 @@ All logic is done in C++.
 ![Pickup](https://user-images.githubusercontent.com/53401206/101007139-a3bb6800-3561-11eb-88b4-45d3dbe066d0.png)
 
 
-## Video:
-
-https://www.youtube.com/watch?v=20Qj2slPjMg&feature=youtu.be
-
 
 
 
